@@ -3,7 +3,6 @@
 -  I'm programming on java 8 ago 3 years;
 -  Postgresql;
 -  MySql
--  Java 8;
 -  I worked with scrum methodology;
 -  I made some projects with java8 and springboot framework;
 - 👀 I’m interested in back End development, on differents programming languajes and frameworks;
