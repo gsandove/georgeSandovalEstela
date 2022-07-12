@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @georgeSandovalEstela;
 -  Skills : 
--  I'm programming on java 8 ago 3 years;
+-  I'm programming on java 8 ago 2 years;
 -  Postgresql;
 -  MySql
 -  I worked with scrum methodology;
