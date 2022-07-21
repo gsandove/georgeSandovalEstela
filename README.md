@@ -2,7 +2,11 @@
 -  Skills : 
 -  I'm programming on java 8 ago 2 years;
 -  Postgresql;
--  MySql
+-  MySql,
+-  Html 5,
+-  Css 3,
+-  JavaScript,
+-  React
 -  I worked with scrum methodology;
 -  I made some projects with java8 and springboot;
 -  Microservices;
